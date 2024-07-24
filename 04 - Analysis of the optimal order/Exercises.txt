@@ -1,0 +1,2 @@
+1) Repeat the script considering data0. Comment the behaviour of JPT.
+2) Repeat the script considering data4. Comment the behaviour of indexes.

@@ -1,0 +1,7 @@
+1) Repeat the script by choosing an aprbs(500,10,80,-4,4) input signal.
+Explain the obtained results.
+
+2) Repeat the script by changing the interval of the piecewise linear
+input signal to [-6:1.2:6]. Explain the obtained results.
+
+3) Repeat the script considering a faster dynamic of the non-linear system.

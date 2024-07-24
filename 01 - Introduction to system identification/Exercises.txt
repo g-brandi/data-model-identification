@@ -1,0 +1,8 @@
+1) Repeat the identification process with other model families (for example
+changing the order of the ARX model or using the commands bj, oe, ie, armax).
+
+2) Repeat the identification process using wider segments of data.
+
+3) Evaluate the adherence of the found models to the validation set.
+
+4) Repeat the whiteness analysis considering the unused dataset data2.

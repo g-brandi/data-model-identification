@@ -1,0 +1,4 @@
+1) Repeat the script changing the noise variance for the identification
+of the ARMAX model (first for loop). Use different values for the variance
+of the error (1e-5, 1e-7, 1e-9). Is the polarization of the error still
+happening or not? Why?

@@ -1,0 +1,27 @@
+Consider Part 1.
+
+1) Repeat the script considering the variance of the noise equal to 1e-5.
+Check if the adherence of the wrong model and of the m100 model are similar.
+
+2) Considering the variance of the noise equal to 1e-5, compute the
+cross-correlation of the wrong model.
+
+3) Repeat the script identifying the system with an ARX model, using U as
+input and the prediction error as ouput. In other words, perform the 
+so-called Model Error Identification.
+
+
+
+Consider Part 2 and Part 3.
+
+1) Repeat the script considering the variance of the noise equal to 1e-5.
+What happens to the cross-correlation of the model m500 and why this happens?
+
+2) Compute the parametric error on matrices A and B
+
+3) Repeat the script using ARMAX family. What happens to the parametric
+errors of matrices A and B and why this happens?
+
+4) Repeat the script using ARMAX family. Compute the parametric error of
+matrix C. Comment its behaviour and compare it to the behaviours of the
+parametric errors of matrices A and B.

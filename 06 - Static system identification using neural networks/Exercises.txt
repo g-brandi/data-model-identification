@@ -1,0 +1,1 @@
+1) What happens if the standard deviation of the noise increases up to 0.7?

@@ -1,0 +1,10 @@
+1) Consider the case of white noise. Observe that wit the pre-filtering the
+coefficients of the odel are close to the coefficients of the real system
+
+2) Consider the case of white noise. Increase the amount of noise by a 
+value of sqrt(0.5). Notice that the estimation of the model becomes more
+difficult when the amount of noise increases.
+
+3) Consider the case of colorful noise. Identify the system using a
+Box-Jenkins family model. Be careful to design the filter, since the
+transfer function of the noise is not 1/A(z) anymore!
